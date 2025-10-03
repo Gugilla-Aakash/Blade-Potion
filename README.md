@@ -1,2 +1,13 @@
-# Blade-Potion
-A text-based RPG written in Python 🐍. Features immersive typing effects, battles against Goblins, Orcs, and Dragons, ally assistance, healing potions, achievements, and replay support — all inside your terminal. Perfect for beginners learning Python OOP and game logic!
+# ⚔️ Text RPG Adventure
+
+A simple **Python command-line RPG** that features battles, allies, potions, achievements, and immersive typing effects.  
+Perfect beginner-friendly project for learning **OOP, lists, sets, dictionaries, and sys.argv usage**.  
+
+---
+
+## 🎮 How to Play
+
+1. Clone the repo:
+   ```bash
+   git clone https://github.com/<your-username>/text-rpg.git
+   cd text-rpg
